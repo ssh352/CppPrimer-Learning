@@ -1,2 +1,9 @@
 # Practice_Cpp_Primer
-Source files for exercises in C++ Primer (5th ed.)
+Ad
+
+There are source files for exercises in *C++ Primer (5th ed.)* wrote by Ad (a C++ beginner).
+
+If any errors are found, please tell Ad.
+Thank you.
+
+(≧∇≦)ﾉ
