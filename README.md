@@ -10,4 +10,4 @@ There are source files for exercises in *C++ Primer (5th ed.)* wrote by Ad (a C+
 If any errors are found, please tell Ad.
 Thank you.
 
-(≧∇≦)ﾉ
+(≧ω≦)
