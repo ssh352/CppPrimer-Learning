@@ -1,4 +1,4 @@
-Practice_Cpp_Primer
+)Practice_Cpp_Primer
 
 Source files for exercises in *C++ Primer 5th editon*
 -----------------------------------------------------
@@ -17,11 +17,11 @@ Ad
 
 -----------------------------------------------------
 
-### [Chapter4 updated](https://github.com/Ad147/Practice_Cpp_Primer/tree/master/Chapter4}
+### [Chapter4 updated](https://github.com/Ad147/Practice_Cpp_Primer/tree/master/Chapter4)
 
 -----------------------------------------------------
 
-If any errors are found, please tell Ad.
+If any errors are found, please tell Ad.  
 Thank you.
 
 (≧ω≦)
