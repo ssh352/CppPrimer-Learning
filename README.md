@@ -17,7 +17,7 @@ Ad
 
 -----------------------------------------------------
 
-### [Chapter4 updated]{https://github.com/Ad147/Practice_Cpp_Primer/tree/master/Chapter4}
+### [Chapter4 updated](https://github.com/Ad147/Practice_Cpp_Primer/tree/master/Chapter4}
 
 -----------------------------------------------------
 
