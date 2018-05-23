@@ -25,13 +25,14 @@ Ad
 
 -----------------------------------------------------
 
-### [Chapter6 updated](https://github.com/Ad147/Practice_Cpp_Primer/tree/master/Chapter6)
+### [Chapter6](https://github.com/Ad147/Practice_Cpp_Primer/tree/master/Chapter6)
+
+-----------------------------------------------------
+
+
+### [Chapter7 updated](https://github.com/Ad147/Practice_Cpp_Primer/tree/master/Chapter7)
 
 -----------------------------------------------------
 
 If any errors are found, please tell Ad.  
 Thank you.
-
-(>ω<)
-
-End
