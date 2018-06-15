@@ -29,10 +29,12 @@ Ad
 
 -----------------------------------------------------
 
-
-### [Chapter7 updated](https://github.com/Ad147/Practice_Cpp_Primer/tree/master/Chapter7)
+### [Chapter7](https://github.com/Ad147/Practice_Cpp_Primer/tree/master/Chapter7)
 
 -----------------------------------------------------
 
-If any errors are found, please tell Ad.  
-Thank you.
+### [Chapter8](https://github.com/Ad147/Practice_Cpp_Primer/tree/master/Chapter8)
+
+-----------------------------------------------------
+
+Thanks
