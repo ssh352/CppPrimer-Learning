@@ -1,12 +1,17 @@
-// Exercise13.30.cpp
+// Exercise13.31.cpp
 // Ad
-// Write and test a swap function for your valuelike version of HasPtr.
-// Give your swap a print statement that notes when it is excuted.
+// Give your class a < operator and define a vector of HasPtrs.
+// Give that vector some elements and then sort the vector.
+// Note when swap is called.
+
+// an exception unresolved
 
 #include <iostream>
+#include <vector>
 #include <string>
+#include <algorithm>
 
-// class =========================================
+// class =======================================================================
 
 class HasPtr
 {
@@ -23,6 +28,12 @@ class HasPtr
         i = rhs.i;
         return *this;
     }
+    // a < operator for sort
+    bool operator<(const HasPtr &rhs)
+    {
+        std::cout << "<<<" << std::endl;
+        return (ps < rhs.ps);
+    }
 
   private:
     std::string *ps;
@@ -31,7 +42,7 @@ class HasPtr
     friend void swap(HasPtr &, HasPtr &);
 };
 
-// function ======================================
+// function ====================================================================
 
 inline void swap(HasPtr &lhs, HasPtr &rhs)
 {
@@ -44,15 +55,12 @@ inline void swap(HasPtr &lhs, HasPtr &rhs)
     std::cout << "Function swap(" << *lhs.ps << ", " << *rhs.ps << ") Executed" << std::endl;
 }
 
-// main ==========================================
+// main ========================================================================
 
 int main(int argc, char *argv[])
 {
-    HasPtr hp1 = {"hp1"};
-    HasPtr hp2 = {"hp2"};
-
-    std::cout << "call swap" << std::endl;
-    swap(hp1, hp2);
+    std::vector<HasPtr> hpv = {std::string("hp2"), std::string("hp3"), std::string("hp1")};
+    std::sort(hpv.begin(), hpv.end()); // an exception unresolved
 
     system("pause");
     return 0;
